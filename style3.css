@@ -1,0 +1,31 @@
+
+body{
+	font-family:cursive ;
+	font-style: italic; 
+	font-size: bold;
+	color: #fff;
+}
+#input1{
+	border-radius: 10px 10px 10px 10px;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+#i2{
+	color: greenyellow;
+}
+#i3{
+	color: #fb3958;
+}
+#i4{
+	color: steelblue;
+}
+#i1{
+	color: #4267B2;
+}
+li:hover{
+	transform: scale(1.1);
+}
