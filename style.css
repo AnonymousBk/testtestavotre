@@ -95,7 +95,7 @@ header .navbar li a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(Experts/bgAccueil.jpg);
+    background-image: url(experts/bgAccueil.jpg);
     background-size: cover;
 }
 
